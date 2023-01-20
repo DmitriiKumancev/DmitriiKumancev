@@ -1,29 +1,38 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:dmitrijkumancev571@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-   <a href="https://t.me/TacoBellBoay">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=DmitriiKumancev&style=flat-square&color=blueviolet" alt=""/>
-  </div>
-  <h1>
-  hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# Hi, I'm Dmitrii!👋🏼
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
+
+## Backend and Web3 Developer👨🏼‍💻
+
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
+![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
+![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
+![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=red)
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
+![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-090909?style=for-the-badge&logo=tailwind-css)
+![Jinja](https://img.shields.io/badge/Jinja-090909?style=for-the-badge&logo=jinja)
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+
+
+### Follow Me
+
+[![Medium](https://img.shields.io/badge/Medium-090909?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumancev1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumancev)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/cimus)
+
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumancev&show_icons=true&hide=prs,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumancev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DmitriiKumancev/DmitriiKumancev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
