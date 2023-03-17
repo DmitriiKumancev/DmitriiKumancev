@@ -11,6 +11,7 @@
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![MongoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
@@ -19,7 +20,6 @@
 ![Jinja](https://img.shields.io/badge/Jinja-090909?style=for-the-badge&logo=jinja)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
 
 ### Follow Me
