@@ -10,7 +10,6 @@
 ![Go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
-![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=red)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![MongoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
