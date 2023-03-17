@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
 
 ### Follow Me
 
