@@ -16,6 +16,7 @@
 ![MongoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-090909?style=for-the-badge&logo=tailwind-css)
 ![Jinja](https://img.shields.io/badge/Jinja-090909?style=for-the-badge&logo=jinja)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
