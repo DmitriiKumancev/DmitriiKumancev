@@ -6,8 +6,8 @@
 
 ### Languages and Tools
 
-![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=red)
