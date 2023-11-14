@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 <h2 align="center"> Backend and Web Developer👨🏼‍💻 </h2>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
@@ -34,7 +33,11 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/DKumantsev)
 <br>
 </div>
-<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -59,17 +62,19 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=DmitriiKumancev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+
+
+
+
+
+
 <!--
 ### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriiKumancev&show_icons=true&hide=prs,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiKumancev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
+
 
 
 <!--
