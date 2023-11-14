@@ -33,8 +33,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-090909?style=for-the-badge&logo=tailwind-css)
 ![Jinja](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react)
 ![Jinja](https://img.shields.io/badge/Jinja-090909?style=for-the-badge&logo=jinja)
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
-![Truffle](https://img.shields.io/badge/truffle-090909?style=for-the-badge&logo=truffle)
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
 
 <div align="center">
