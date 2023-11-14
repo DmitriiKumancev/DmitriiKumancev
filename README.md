@@ -31,14 +31,13 @@
 [![Medium](https://img.shields.io/badge/Medium-090909?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmitrijkumancev571)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/DKumantsev)
-<br>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
+</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
