@@ -34,8 +34,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriiKumancev&show_icons=true&hide=prs,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiKumancev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake svg]
-(https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/DmitriiKumancev/DmitriiKumancev/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **DmitriiKumancev/DmitriiKumancev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
