@@ -38,7 +38,7 @@
 <div align="center">
 <h4>Follow Me<h4>
 
-[![Medium](https://img.shields.io/badge/Medium-090909?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmitrijkumancev571)
+[![Medium](https://img.shields.io/badge/Medium-090909?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dmkaban62)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/DKumantsev)
 
